@@ -1,2 +1,3 @@
 teste - segundo arquivo
 teste 2
+teste 3
