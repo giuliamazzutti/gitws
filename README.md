@@ -6,4 +6,4 @@ Lorem ipsum
 
 ## DESENVOLVEDORES
 
-- Giulia Mazzutti Teixeira - UFSCar
+- Giulia Mazzutti Teixeira - UFSCar - modificado
